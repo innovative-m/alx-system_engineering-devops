@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 echo o{a..z} | grep -v "oo" | sort
